@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dvij Kalaria</title>
+	<atom:link href="https://dvij542.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dvij542.github.io/</link>
+	<description> PhD at Berkeley AI Research, UC Berkeley</description>
+	<lastBuildDate>Thu, 04 Apr 2024 01:47:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://dvij542.github.io/wp-content/uploads/2024/04/cropped-robot-32x32.png</url>
+	<title>Dvij Kalaria</title>
+	<link>https://dvij542.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://dvij542.github.io/hello-world/</link>
+					<comments>https://dvij542.github.io/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[xuehaoru233]]></dc:creator>
+		<pubDate>Thu, 04 Apr 2024 01:47:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://dvij542.github.io/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dvij542.github.io/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
